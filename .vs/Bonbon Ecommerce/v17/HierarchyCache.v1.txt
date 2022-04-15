@@ -1,0 +1,309 @@
+﻿++Solution 'Bonbon Ecommerce' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Bonbon Ecommerce.sln
+++Bonbon Ecommerce
+i:{00000000-0000-0000-0000-000000000000}:Bonbon Ecommerce
+++Connected Services 
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:>393
+++Dependencies
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:>392
+++Properties
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\properties\
+++wwwroot
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\
+++content
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\content\
+++Images
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\
+++lib
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\
+++Components
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\components\
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\shared\components\
+++CategoryMenu.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\components\categorymenu.cs
+++ShoppingCartSummary.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\components\shoppingcartsummary.cs
+++Controllers
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\controllers\
+++CandyController.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\controllers\candycontroller.cs
+++ContactController.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\controllers\contactcontroller.cs
+++HomeController.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\controllers\homecontroller.cs
+++ShoppingCartController.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\controllers\shoppingcartcontroller.cs
+++Migrations
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\migrations\
+++20220413062946_InitialMigration.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\migrations\20220413062946_initialmigration.cs
+++20220413062946_InitialMigration.Designer.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\migrations\20220413062946_initialmigration.designer.cs
+++20220413070012_SeedingDb.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\migrations\20220413070012_seedingdb.cs
+++20220413070012_SeedingDb.Designer.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\migrations\20220413070012_seedingdb.designer.cs
+++20220414160115_AddingShoppingCartItem.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\migrations\20220414160115_addingshoppingcartitem.cs
+++20220414160115_AddingShoppingCartItem.Designer.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\migrations\20220414160115_addingshoppingcartitem.designer.cs
+++AppDbContextModelSnapshot.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\migrations\appdbcontextmodelsnapshot.cs
+++Models
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\models\
+++AppDbContext.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\models\appdbcontext.cs
+++Candy.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\models\candy.cs
+++CandyRepository.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\models\candyrepository.cs
+++Category.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\models\category.cs
+++CategoryRepository.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\models\categoryrepository.cs
+++ICandyRepository.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\models\icandyrepository.cs
+++ICategoryRepository.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\models\icategoryrepository.cs
+++ShoppingCart.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\models\shoppingcart.cs
+++ShoppingCartItem.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\models\shoppingcartitem.cs
+++TagHelpers
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\taghelpers\
+++EmailTagHelper.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\taghelpers\emailtaghelper.cs
+++ViewModels
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\viewmodels\
+++CandyListViewModel.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\viewmodels\candylistviewmodel.cs
+++HomeViewModel.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\viewmodels\homeviewmodel.cs
+++ShoppingCartViewModel.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\viewmodels\shoppingcartviewmodel.cs
+++Views
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\
+++Candy
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\candy\
+++Details.cshtml
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\candy\details.cshtml
+++List.cshtml
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\candy\list.cshtml
+++Contact
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\contact\
+++Index.cshtml
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\contact\index.cshtml
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\home\index.cshtml
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\shoppingcart\index.cshtml
+++Home
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\home\
+++Shared
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\shared\
+++CategoryMenu
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\shared\components\categorymenu\
+++Default.cshtml
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\shared\components\categorymenu\default.cshtml
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\shared\components\shoppingcartsummary\default.cshtml
+++ShoppingCartSummary
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\shared\components\shoppingcartsummary\
+++_candyCard.cshtml
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\shared\_candycard.cshtml
+++_Carousel.cshtml
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\shared\_carousel.cshtml
+++_Layout.cshtml
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\shared\_layout.cshtml
+++ShoppingCart
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\shoppingcart\
+++_ViewImports.cshtml
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\_viewstart.cshtml
+++appsettings.json
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\appsettings.json
+++libman.json
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\libman.json
+++Program.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\program.cs
+++Startup.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\startup.cs
+++No service dependencies discovered
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:>394
+++Analyzers
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:analyzers
+++Frameworks
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:frameworks
+++Packages
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:packages
+++launchSettings.json
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\properties\launchsettings.json
+++site.css
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\content\site.css
+++thumbnails
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\thumbnails\
+++candyshoplogo.png
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\candyshoplogo.png
+++carousel1.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\carousel1.jpg
+++carousel2.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\carousel2.jpg
+++carousel3.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\carousel3.jpg
+++chocolateCandy.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\chocolatecandy.jpg
+++chocolateCandy2.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\chocolatecandy2.jpg
+++chocolateCandy3.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\chocolatecandy3.jpg
+++FruitCandy.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\fruitcandy.jpg
+++fruitCandy2.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\fruitcandy2.jpg
+++fruitCandy3.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\fruitcandy3.jpg
+++gummyCandy.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\gummycandy.jpg
+++gummyCandy2.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\gummycandy2.jpg
+++gummyCandy3.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\gummycandy3.jpg
+++halloweenCandy.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\halloweencandy.jpg
+++halloweenCandy2.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\halloweencandy2.jpg
+++halloweenCandy3.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\halloweencandy3.jpg
+++hardCandy.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\hardcandy.jpg
+++hardCandy2.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\hardcandy2.jpg
+++hardCandy3.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\hardcandy3.jpg
+++pattern.png
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\pattern.png
+++bootstrap
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\bootstrap\
+++jquery
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\jquery\
+++appsettings.Development.json
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\users\andre\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (3.0.0)
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:>404
+++Microsoft.EntityFrameworkCore.SqlServer (3.0.0)
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:>405
+++Microsoft.EntityFrameworkCore.Tools (3.0.0)
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:>406
+++chocolateCandy2-small.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\thumbnails\chocolatecandy2-small.jpg
+++chocolateCandy3-small.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\thumbnails\chocolatecandy3-small.jpg
+++chocolateCandy-small.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\thumbnails\chocolatecandy-small.jpg
+++fruitCandy2-small.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\thumbnails\fruitcandy2-small.jpg
+++fruitCandy3-small.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\thumbnails\fruitcandy3-small.jpg
+++FruitCandy-small.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\thumbnails\fruitcandy-small.jpg
+++gummyCandy2-small.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\thumbnails\gummycandy2-small.jpg
+++gummyCandy3-small.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\thumbnails\gummycandy3-small.jpg
+++gummyCandy-small.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\thumbnails\gummycandy-small.jpg
+++halloweenCandy2-small.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\thumbnails\halloweencandy2-small.jpg
+++halloweenCandy3-small.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\thumbnails\halloweencandy3-small.jpg
+++halloweenCandy-small.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\thumbnails\halloweencandy-small.jpg
+++hardCandy2-small.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\thumbnails\hardcandy2-small.jpg
+++hardCandy3-small.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\thumbnails\hardcandy3-small.jpg
+++hardCandy-small.jpg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\images\thumbnails\hardcandy-small.jpg
+++css
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\bootstrap\css\
+++fonts
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\bootstrap\fonts\
+++js
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\bootstrap\js\
+++core.js
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\jquery\core.js
+++jquery.js
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\jquery\jquery.js
+++bootstrap.css
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\bootstrap\css\bootstrap.css
+++bootstrap-theme.css
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\bootstrap\css\bootstrap-theme.css
+++glyphicons-halflings-regular.eot
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\bootstrap\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\bootstrap\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\bootstrap\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\bootstrap\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\bootstrap\fonts\glyphicons-halflings-regular.woff2
+++bootstrap.js
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\bootstrap\js\bootstrap.js
+++npm.js
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\bootstrap\js\npm.js
+++jquery.min.js
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\jquery\jquery.min.js
+++jquery.slim.js
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\jquery\jquery.slim.js
+++bootstrap.css.map
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\bootstrap\css\bootstrap.css.map
+++bootstrap.min.css
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\bootstrap\css\bootstrap.min.css
+++bootstrap-theme.css.map
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\bootstrap\css\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\bootstrap\css\bootstrap-theme.min.css
+++bootstrap.min.js
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\bootstrap\js\bootstrap.min.js
+++jquery.min.map
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\jquery\jquery.min.map
+++jquery.slim.min.js
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\jquery\jquery.slim.min.js
+++bootstrap.min.css.map
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\bootstrap\css\bootstrap.min.css.map
+++bootstrap-theme.min.css.map
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\bootstrap\css\bootstrap-theme.min.css.map
+++jquery.slim.min.map
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\wwwroot\lib\jquery\jquery.slim.min.map
+++Order.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\models\order.cs
+++OrderDetail.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\models\orderdetail.cs
+++IOrderRepository.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\models\iorderrepository.cs
+++OrderRepository.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\models\orderrepository.cs
+++OrderController.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\controllers\ordercontroller.cs
+++NewFolder
+++Order
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\order\
+++Checkout.cshtml
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\order\checkout.cshtml
+++CheckoutComplete.cshtml
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\views\order\checkoutcomplete.cshtml
+++20220415045259_AddingAttribute.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\migrations\20220415045259_addingattribute.cs
+++20220415045259_AddingAttribute.Designer.cs
+i:{87cf89b8-20ed-405c-beae-615b1b00af6d}:c:\sheridan2023\projects\.net\asp.net\bonbon ecommerce\bonbon ecommerce\migrations\20220415045259_addingattribute.designer.cs
